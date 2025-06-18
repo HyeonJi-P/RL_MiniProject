@@ -1,0 +1,14 @@
+material dirt_plane/Image
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ../textures/dirt_plane.png
+        scale 0.05 0.05
+      }
+    }
+  }
+}
