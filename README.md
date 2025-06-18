@@ -60,7 +60,7 @@ source install/setup.bash
 ### Build
 `colcon build`
 
-### Run
+# Run
 * Gazebo world + TB3 도커 내 각각의 터미널에서 실행. 학습 혹은 테스트시 아래 4개 실행 필수
 `ros2 launch turtlebot3_gazebo RL_project_chamoe.launch.py`
 `ros2 run chamoe_rl chamoe_rl_RK_environment`
