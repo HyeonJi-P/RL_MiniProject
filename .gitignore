@@ -1,0 +1,25 @@
+*.log
+__pycache__/
+
+# Docker container
+/docker/ros2/.ros/*
+/docker/ros2/.gazebo/*
+
+# ROS Workspace
+/dev_ws/build/
+/dev_ws/install/
+/dev_ws/log/
+/dev_ws/logs/
+/dev_ws/src/DynamixelSDK/*
+/dev_ws/src/turtlebot3/*
+/dev_ws/src/turtlebot3_machine_learning/*
+/dev_ws/src/turtlebot3_msgs/*
+/dev_ws/src/turtlebot3_simulations/*
+
+
+# Editor, IDE
+/.idea/
+.vscode
+*.code-workspace
+
+!.gitkeep
