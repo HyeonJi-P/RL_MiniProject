@@ -21,7 +21,10 @@ project/
  ├─ dev_ws/
  │   └─ src/
  │       ├─ chamoe_rl/   # <‑‑ main package
- │       └─ turtlebot3_OOO/
+ │       └─ turtlebot3/
+ │       └─ turtlebot3_machine_learning/
+ │       └─ turtlebot3_msg/
+ │       └─ turtlebot3_simulations/
  └─ docker/
      └─ ros2/docker‑compose.yml
 ```
