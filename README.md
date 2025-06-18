@@ -7,7 +7,7 @@
 
 ## 2. clone repositories into workspace
 ```
-cd ~  # project
+cd ~  
 git clone
 cp RL_MiniProject/project .
 cd project/dev_ws/src
