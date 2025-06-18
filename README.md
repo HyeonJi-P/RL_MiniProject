@@ -81,6 +81,6 @@ source install/setup.bash
 
 ### Test 
 * DQN : 학습된 파일명에 따라 코드에서 load내용 수정 필요
-'python3 /home/dockeruser/project/dev_ws/src/chamoe_rl/chamoe_rl/DQN_test.py' 
-'python3 /home/dockeruser/project/dev_ws/src/chamoe_rl/chamoe_rl/Q_test.py' 
+`python3 /home/dockeruser/project/dev_ws/src/chamoe_rl/chamoe_rl/DQN_test.py`
+`python3 /home/dockeruser/project/dev_ws/src/chamoe_rl/chamoe_rl/Q_test.py`
 
