@@ -3,7 +3,7 @@
 # Environment setup
 ## 1. Docker 셋팅
 `git clone https://github.com/ryomo/ros2-gazebo-docker.git`
-* docker-compose.yml 파일 내용을 현재 레포지토리의 **cham_docker-compose.yml** 내용으로 변경 후 안내에 따라 도커 접속
+* docker-compose.yml 파일 내용을 현재 레포지토리의 **cham_docker-compose.yml** 내용으로 변경 후 레포지토리의 안내에 따라 도커 생성 및 접속
 
 ## 2. clone repositories into workspace
 ```
