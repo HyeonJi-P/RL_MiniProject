@@ -8,7 +8,7 @@
 ## 2. clone repositories into workspace
 ```
 cd ~  
-git clone
+git clone https://github.com/HyeonJi-P/RL_MiniProject.git
 cp RL_MiniProject/project .
 cd project/dev_ws/src
 # src 내 세부 turtlebot3 관련 레포지토리는 기본적으로 turtlebot3 예제의 설정을 따름 : https://emanual.robotis.com/docs/en/platform/turtlebot3/machine_learning/
